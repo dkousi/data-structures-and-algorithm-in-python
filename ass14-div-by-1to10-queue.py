@@ -71,5 +71,5 @@ number_queue.enqueue(10080)
 number_queue.enqueue(7113)
 number_queue.enqueue(2520)
 number_queue.enqueue(2500)
-check_numbers(number_queue)
+print(check_numbers(number_queue))
                                                     
